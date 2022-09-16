@@ -21,8 +21,8 @@ const Part = (props) => {
     </div>
   )
 }
-//wtf lol test
-//toimiiks tää
+
+
 const Content = (props) => {
   return (
     <div>
