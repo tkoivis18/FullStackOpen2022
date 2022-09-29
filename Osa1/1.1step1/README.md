@@ -1,5 +1,5 @@
 
-Tässä tiedostossa molemmat thetävät 1.1: kurssitiedot, step1 ja 1.2: kurssitiedot, step2 vaikka tiedoston nimestä voisi ajatella että on vain step1.
+Tässä tiedostossa tehtynä 1.5 tehtävän lopullinen versio. 
 =======
-Vaikka tiedoston nimi on step1 niin tässä kuitenkin myös 1.2 step2 tehtynä samaan tiedostoon.
+Vaikka tiedoston nimi on step1 niin tässä kuitenkin tehtynä ohjelma tehtävään 1.5 mukaisesti. Tein kaikki tehtävät samaan projektiin.
 
