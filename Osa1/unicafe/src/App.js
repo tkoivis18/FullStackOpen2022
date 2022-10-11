@@ -59,12 +59,12 @@ const App = () => {
   };
 
   const handleNeutalClick = () => {
-    setAll(allClicks.concat("G"));
+    setAll(allClicks.concat("N"));
     setNeutral(neutral + 1);
   };
 
   const handleBadClick = () => {
-    setAll(allClicks.concat("G"));
+    setAll(allClicks.concat("B"));
     setBad(bad + 1);
   };
 
